@@ -8,3 +8,4 @@ url = pyqrcode.create(s)
 
 # Create and save the SVG file named "myQr.svg"
 url.svg("myQr.svg", scale=8)
+
